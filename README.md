@@ -1,4 +1,4 @@
-### An app to help new software developers navigate the chaotic world of learnig to code.
+### An app to help new software developers such as myself navigate the chaotic world of learnig to code.
 ---
 ### This app was inspired by my own struggle to find a meaningful and structured roadmap to build up and develop solid understanding of fundamental concepts of coding.
 ---
