@@ -1,6 +1,6 @@
 ### An app to help new software developers such as myself navigate the chaotic world of learnig to code.
 ---
-### This app was inspired by my own struggle to find a meaningful and structured roadmap to build up and develop solid understanding of fundamental concepts of coding.
+### This app was inspired by my own struggle to find a meaningful and structured roadmap to build up and develop solid understanding of fundamental concepts of programming.
 ---
 ### Scattered and unstructured knowledge build up leads to more confusion and most importantly pushes new programmers into giving up. 
 ---
